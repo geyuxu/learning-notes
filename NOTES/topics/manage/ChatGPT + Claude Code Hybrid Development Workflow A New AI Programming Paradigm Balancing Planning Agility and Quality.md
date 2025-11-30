@@ -1,10 +1,8 @@
-# ChatGPT + Claude Code Hybrid Development Workflow A New AI Programming Paradigm Balancing Planning Agility and Quality
-Last updated: 2025-07-24
-Tags: blog
-TL;DR:
-- Migrated from old blog.
-- Original title: ChatGPT + Claude Code Hybrid Development Workflow A New AI Programming Paradigm Balancing Planning Agility and Quality
-- See notebook for details.
+---
+title: ChatGPT + Claude Code Hybrid Development Workflow A New AI Programming Paradigm Balancing Planning Agility and Quality
+pubDate: 2025-07-24
+description: This article introduces an innovative "blueprint-driven" hybrid AI development workflow that leverages ChatGPT's conversational planning capabilities to generate detailed development blueprints, then utilizes Claude Code's powerful implementation abilities for step-by-step execution under strict developer supervision.
+---
 
 # ChatGPT + Claude Code Hybrid Development Workflow: A New AI Programming Paradigm Balancing Planning, Agility, and Quality
 
