@@ -24,5 +24,10 @@ See: `LABS/README.md`
 ## Quick demo
 ![Sanity check plot](ASSETS/sanity_check_plot.png)
 
+## Demos
+- R_001: `LABS/notebooks/R_001_sanity_check.ipynb`
+- R_002: `LABS/notebooks/R_002_minimal_retrieval.ipynb`
+- R_010: `LABS/notebooks/R_010_numpy_basics.ipynb`
+
 ## License
 See `LICENSE`.
