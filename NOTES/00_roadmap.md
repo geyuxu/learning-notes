@@ -10,5 +10,6 @@
 - [ ] Add a screenshot to README    
 
 ## Next: Content Routine
+- [x] Add NumPy note: `NOTES/topics/numpy/01_numpy_basics.md`
 - [ ] Weekly inbox → organise into topics/courses/papers
 - [ ] Maintain index links (00_index.md)

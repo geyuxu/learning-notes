@@ -9,6 +9,7 @@
 - Templates: `_templates/`
 
 ## Topics
+- Numpy: `topics/numpy/`
 - RAG: `topics/rag/`
 - Transformers: `topics/transformer/`
 - Optimisation: `topics/optimization/`
