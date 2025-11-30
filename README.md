@@ -28,6 +28,8 @@ See: `LABS/README.md`
 - R_001: `LABS/notebooks/R_001_sanity_check.ipynb`
 - R_002: `LABS/notebooks/R_002_minimal_retrieval.ipynb`
 - R_010: `LABS/notebooks/R_010_numpy_basics.ipynb`
+- R_020: `LABS/notebooks/R_020_pandas_basics.ipynb`
+- Migrated: `LABS/notebooks/` (various topics)
 
 ## License
 See `LICENSE`.

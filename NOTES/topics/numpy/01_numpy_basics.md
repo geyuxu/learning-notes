@@ -34,7 +34,7 @@ NumPy 提供了多种内建函数来方便地创建特定内容的数组：
 c = np.arange(1, 6)                 # [1 2 3 4 5] -> 1行5列，类似 range()，生成1到5的整数
 d = np.arange(1.0, 6.0)             # [1. 2. 3. 4. 5.] -> 1行5列，起止为浮点数，则元素为 float64
 print(c, c.dtype)                   # [1 2 3 4 5] int64
-print(d, d.dtype)                   # [1. 2. 3. 4. 5.] float64# 创建全零或全一数组
+print(d, d.dtype)                   # [1. 2. 3. 4. 5.] float64 # 创建全零或全一数组
 e = np.zeros(5)                     # [0. 0. 0. 0. 0.] -> 长度5的全0数组，默认dtype=float64
 f = np.ones(5, dtype=np.int32)      # [1 1 1 1 1] -> 长度5的全1数组，元素类型int32
 g = np.ones_like(e)                 # [1. 1. 1. 1. 1.] -> 创建一个形状和e相同的全1数组，dtype跟e相同(float64)

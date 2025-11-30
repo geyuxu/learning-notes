@@ -11,5 +11,7 @@
 
 ## Next: Content Routine
 - [x] Add NumPy note: `NOTES/topics/numpy/01_numpy_basics.md`
+- [x] Add Pandas note: `NOTES/topics/pandas/01_pandas_basics.md`
+- [x] Migrate old blog posts (100+ files)
 - [ ] Weekly inbox → organise into topics/courses/papers
 - [ ] Maintain index links (00_index.md)

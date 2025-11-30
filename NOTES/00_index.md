@@ -13,6 +13,15 @@
 - RAG: `topics/rag/`
 - Transformers: `topics/transformer/`
 - Optimisation: `topics/optimization/`
+- Pandas: `topics/pandas/`
+- AI: `topics/ai/`
+- Backend: `topics/backend/`
+- DevOps: `topics/devops/`
+- Frontend: `topics/frontend/`
+- Management: `topics/manage/`
+- Math: `topics/math/`
+- Search: `topics/search/`
+- Service Governance: `topics/service_governance/`
 
 ## Papers
 - 2025: `papers/2025/`
