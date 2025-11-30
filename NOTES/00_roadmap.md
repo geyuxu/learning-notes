@@ -2,11 +2,12 @@
 
 ## Sprint: Repo Bootstrap
 - [x] Create repository + push to GitHub
-- [ ] Add professional README (entry point + navigation)
-- [ ] Add NOTES/ templates (topic / paper / lecture)
-- [ ] Add runnable environment (requirements.txt) + LABS run guide
-- [ ] Define notebook naming convention + metadata header
-- [ ] Add LICENSE
+- [x] Add professional README (entry point + navigation)
+- [x] Add NOTES/ templates (topic / paper / lecture)
+- [x] Add runnable environment (requirements.txt) + LABS run guide
+- [x] Define notebook naming convention + metadata header
+- [x] Add LICENSE
+- [ ] Add a screenshot to README    
 
 ## Next: Content Routine
 - [ ] Weekly inbox → organise into topics/courses/papers
