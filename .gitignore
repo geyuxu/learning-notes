@@ -3,4 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 *.pyc
-data/
+
+# Data: keep only README
+DATA/*
+!DATA/README.md
