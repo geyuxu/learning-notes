@@ -4,6 +4,10 @@ __pycache__/
 .DS_Store
 *.pyc
 
+**/__pycache__/
+**/*.pyc
+.ipynb_checkpoints/
+
 # Data: keep only README
 DATA/*
 !DATA/README.md
