@@ -8,6 +8,7 @@
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+python -c "import numpy, pandas, matplotlib; print('ok')"
 python -m ipykernel install --user --name learning-notes --display-name "learning-notes"
 jupyter lab
 ``` 
