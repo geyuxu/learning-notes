@@ -21,5 +21,8 @@ See: `LABS/README.md`
   - `E_` exploratory (messy allowed)
   - `R_` reproducible (clean, rerunnable)
 
+## Quick demo
+![Sanity check plot](ASSETS/sanity_check_plot.png)
+
 ## License
 See `LICENSE`.
