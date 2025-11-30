@@ -1,12 +1,24 @@
 # Knowledge Map
 
 ## Now
-- (add what you're currently studying)
+- [ ] (this week) Add 1 topic note in `NOTES/topics/`
+- [ ] (this week) Add 1 reproducible notebook in `LABS/notebooks/`
+
+## Start here
+- Roadmap: `00_roadmap.md`
+- Templates: `_templates/`
 
 ## Topics
-- RAG
-- Transformers
-- Optimisation
+- RAG: `topics/rag/`
+- Transformers: `topics/transformer/`
+- Optimisation: `topics/optimization/`
+
+## Papers
+- 2025: `papers/2025/`
+
+## Courses
+- (add your course folders): `courses/`
 
 ## Labs
-- See: /LABS
+- Lab guide: `../LABS/README.md`
+- Notebooks: `../LABS/notebooks/`
